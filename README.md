@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
 </h1>
 
 ### Languages and Tools :
