@@ -14,4 +14,4 @@
 <div>
   
 ### My Stats :
- https://github-readme-streak-stats.herokuapp.com/?user=harbiinger
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harbiinger&theme=dark&background=000000)](https://git.io/streak-stats)
