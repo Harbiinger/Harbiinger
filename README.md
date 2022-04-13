@@ -2,6 +2,27 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
 </div>
 
+<div id="socials" align="center">
+  <a href="">
+    <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="45" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/theo-godin-3b6775223/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" height="22">
+  </a>
+  <a href="">
+    <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/%20Harbinger%234774-Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" width="200" height="22">
+  </a>
+  <a href="">
+    <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
+  </a>
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=harbiinger&style=for-the-badge&color=orange" width="145" height="22.5"/>
+  </a>
+</div>
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
