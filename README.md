@@ -1,3 +1,7 @@
+<h1>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="30px"/>
+</h1>
+
 ### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
