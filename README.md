@@ -21,7 +21,7 @@
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=harbiinger&style=for-the-badge&color=orange" width="145" height="22.5"/>
   </a>
-</div>
+</div> 
 
 ### Languages and Tools :
 <div>
