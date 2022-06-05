@@ -38,6 +38,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <div>
   
+### Currently learning :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  
 ### My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harbiinger&count_private=true&show_icons=true&theme=dark&background=000000)
   
