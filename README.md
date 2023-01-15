@@ -13,7 +13,7 @@
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/%20Harbinger%234774-Discord-blueviolet?logo=discord&logoColor=white&style=for-the-badge" width="200" height="22">
+    <img src="https://img.shields.io/badge/%20@hrbgr:matrix.org-Matrix-blueviolet?logo=matrix&logoColor=white&style=for-the-badge" width="200" height="22">
   </a>
   <a href="">
     <img src="https://1.bp.blogspot.com/-jJUO43k6ReU/T7ivfcr4fgI/AAAAAAAAQqU/8YdJwPwT4OE/s1600/transparent.png" width="10">
